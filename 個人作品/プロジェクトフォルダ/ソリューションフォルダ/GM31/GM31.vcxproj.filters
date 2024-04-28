@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Component">
+      <UniqueIdentifier>{58fa28b1-1fcf-4542-9d7e-36bc7185e604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject">
+      <UniqueIdentifier>{c6ded547-2a69-49f9-8cb2-5b80dde91677}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{6a931f72-14f0-49fa-a1e2-4a12697729f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shader">
+      <UniqueIdentifier>{ab329e41-3bac-4c79-9edc-eeaa9f946b7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Behavior">
+      <UniqueIdentifier>{238f14e3-90d6-414d-bd21-d077a96124b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Block">
+      <UniqueIdentifier>{c96de0f0-9301-4f73-b0a4-35452adb6eae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Character">
+      <UniqueIdentifier>{1000e1d9-fb8e-4336-8c75-0644374dd79e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Character\Player">
+      <UniqueIdentifier>{904571c7-5255-445f-99d4-356a7bd43e5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Character\Enemy">
+      <UniqueIdentifier>{e5ca2fe2-e24b-4199-8d88-ff78dff003aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Field">
+      <UniqueIdentifier>{10a4a932-24a1-4b69-bfd3-6dc976595437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\ASatr">
+      <UniqueIdentifier>{13a35537-9b0d-4587-b8a6-a3a79e736c10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component\Manager">
+      <UniqueIdentifier>{3de90781-c1b6-4fc6-ae1e-c5493f9ee7b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Animation">
+      <UniqueIdentifier>{d47d5ce1-056a-4a50-8300-4d64fc5fa7d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Camera">
+      <UniqueIdentifier>{d3519d45-b51d-4206-972a-c028733fabc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Effect">
+      <UniqueIdentifier>{8deda2e1-b3d7-41d7-8e21-b526a4b87cfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\UI">
+      <UniqueIdentifier>{9e53fb64-7802-4a65-a7ae-77298965dcb7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CreateTexture.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="manager.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="shader.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="cube.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="polygon2D.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="modelRenderer.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="shadow.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="skyRenderer.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="box.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="cylinder.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="goal.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="title.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="transition.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="audio.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="attackjudgment.cpp">
+      <Filter>Behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="behaviordata.cpp">
+      <Filter>Behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="behaviortree.cpp">
+      <Filter>Behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="nodebase.cpp">
+      <Filter>Behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="bomb.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="rand.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="blockbase.cpp">
+      <Filter>GameObject\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="character.cpp">
+      <Filter>GameObject\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>GameObject\Character\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>GameObject\Character\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="field.cpp">
+      <Filter>GameObject\Field</Filter>
+    </ClCompile>
+    <ClCompile Include="astarnodemanager.cpp">
+      <Filter>System\ASatr</Filter>
+    </ClCompile>
+    <ClCompile Include="movesprite.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="enemymanager.cpp">
+      <Filter>Component\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="explosionmanager.cpp">
+      <Filter>Component\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="fieldmanager.cpp">
+      <Filter>Component\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="gameover.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="clear.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="animationModel.cpp">
+      <Filter>System\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="modelinfo.cpp">
+      <Filter>System\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>GameObject\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="explosion.cpp">
+      <Filter>GameObject\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="pressenter.cpp">
+      <Filter>GameObject\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="score.cpp">
+      <Filter>GameObject\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="sky.cpp">
+      <Filter>GameObject\Field</Filter>
+    </ClCompile>
+    <ClCompile Include="attackaction.cpp">
+      <Filter>Behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="randomaction.cpp">
+      <Filter>Behavior</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="component.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="gameObject.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="cube.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="polygon2D.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CreateTexture.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="manager.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="modelRenderer.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="shadow.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="skyRenderer.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="box.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="cylinder.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="goal.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="title.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="transition.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="audio.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="actionbase.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="attackjudgment.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="behaviordata.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="behaviortree.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="execjudgmentbase.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="nodebase.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="bomb.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="blockbase.h">
+      <Filter>GameObject\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="character.h">
+      <Filter>GameObject\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>GameObject\Character\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>GameObject\Character\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="field.h">
+      <Filter>GameObject\Field</Filter>
+    </ClInclude>
+    <ClInclude Include="astarnodemanager.h">
+      <Filter>System\ASatr</Filter>
+    </ClInclude>
+    <ClInclude Include="rand.h">
+      <Filter>System</Filter>
+    </ClInclude>
+    <ClInclude Include="movesprite.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="enemymanager.h">
+      <Filter>Component\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="explosionmanager.h">
+      <Filter>Component\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="fieldmanager.h">
+      <Filter>Component\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="gameover.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="clear.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="animationModel.h">
+      <Filter>System\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="modelinfo.h">
+      <Filter>System\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>GameObject\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="explosion.h">
+      <Filter>GameObject\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="pressenter.h">
+      <Filter>GameObject\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="score.h">
+      <Filter>GameObject\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="sky.h">
+      <Filter>GameObject\Field</Filter>
+    </ClInclude>
+    <ClInclude Include="attackaction.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="randomaction.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="vertexLightingVS.hlsl">
+      <Filter>Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="vertexLightingPS.hlsl">
+      <Filter>Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="unlitTextureVS.hlsl">
+      <Filter>Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="unlitTexturePS.hlsl">
+      <Filter>Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="common.hlsl">
+      <Filter>Shader</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>
