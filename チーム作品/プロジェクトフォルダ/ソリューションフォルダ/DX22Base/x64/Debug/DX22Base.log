@@ -1,0 +1,7 @@
+﻿  Heat.cpp
+  Jewely.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\jewely.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\jewely.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\jewely.cpp(46): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  DX22Base.vcxproj -> C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Debug\DX22Base.exe

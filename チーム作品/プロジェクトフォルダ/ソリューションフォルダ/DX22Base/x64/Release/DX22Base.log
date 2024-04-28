@@ -1,0 +1,313 @@
+﻿  compilation object save succeeded; see C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\ModelVS.cso
+  Area1BackObject.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\area1backobject.cpp(33): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Area2BackObject.cpp
+  Area3BackObject.cpp
+  AtkGauge.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\atkgauge.cpp(15): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Bedrock.cpp
+  BGM.cpp
+  BillBoard.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\billboard.cpp(107): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\billboard.cpp(112): warning C4244: '=': 'float' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\billboard.cpp(130): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+  BlendState.cpp
+  BlockBase.cpp
+  BreakNumUI.cpp
+  CameraAdmission.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraevent.h(21): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraadmission.cpp(8): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraadmission.cpp(9): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraadmission.cpp(27): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraadmission.cpp(28): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  CameraBase.cpp
+  CameraClear.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraclear.cpp(29): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraclear.cpp(30): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraclear.cpp(31): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraclear.cpp(33): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraclear.cpp(34): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraclear.cpp(35): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CameraDebug.cpp
+  CameraEvent.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraevent.h(21): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CameraMain.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp(15): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp(154): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp(155): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp(156): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp(158): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp(159): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp(160): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp(169): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp(170): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramain.cpp(171): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CameraManager_Game.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraevent.h(21): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CameraMiss.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramiss.cpp(59): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramiss.cpp(60): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramiss.cpp(61): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramiss.cpp(63): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramiss.cpp(64): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameramiss.cpp(65): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CameraPile.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(191): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(192): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(193): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(195): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(196): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(197): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(201): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(202): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(203): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(205): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(206): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camerapile.cpp(207): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CameraPlayer.cpp
+  コンパイル中...
+  CameraStartEvent.cpp
+  CameraWorld.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraworld.cpp(35): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraworld.cpp(36): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraworld.cpp(37): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraworld.cpp(39): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraworld.cpp(40): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraworld.cpp(41): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Camera_Manager.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraevent.h(21): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\camera_manager.cpp(39): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  Clay.cpp
+  ClearEffect.cpp
+  Collision.cpp
+  Concrete.cpp
+  ConstantBuffer.cpp
+  DebugConsole.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(694): warning C4311: '型キャスト': ポインターを 'opensound::<unnamed-type-m> *' から 'DWORD' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(694): warning C4302: '型キャスト': 'opensound::<unnamed-type-m> *' から 'DWORD' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(699): warning C4311: '型キャスト': ポインターを '__conioex_h_SoundInfo *' から 'int' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(699): warning C4302: '型キャスト': '__conioex_h_SoundInfo *' から 'int' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(717): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(743): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(763): warning C4311: '型キャスト': ポインターを 'MCI_PLAY_PARMS *' から 'DWORD' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(763): warning C4302: '型キャスト': 'MCI_PLAY_PARMS *' から 'DWORD' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(781): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(806): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(811): warning C4311: '型キャスト': ポインターを 'MCI_STATUS_PARMS *' から 'DWORD' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(811): warning C4302: '型キャスト': 'MCI_STATUS_PARMS *' から 'DWORD' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(832): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(842): warning C4311: '型キャスト': ポインターを 'MCI_STATUS_PARMS *' から 'DWORD' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(842): warning C4302: '型キャスト': 'MCI_STATUS_PARMS *' から 'DWORD' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(874): warning C4312: '型キャスト': 'int' からより大きいサイズの '__conioex_h_SoundInfo *' へ変換します。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(885): warning C4311: '型キャスト': ポインターを 'MCI_DGV_SETAUDIO_PARMS *' から 'DWORD' へ切り詰めます。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\conioex.h(885): warning C4302: '型キャスト': 'MCI_DGV_SETAUDIO_PARMS *' から 'DWORD' へ切り詰めます。
+  DirectX.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\directx.cpp(133): warning C4244: '=': 'UINT' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\directx.cpp(134): warning C4244: '=': 'UINT' から 'FLOAT' への変換です。データが失われる可能性があります。
+  Texture.cpp
+  Effect_Manager.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\effect_manager.cpp(219): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Game3D.cpp
+  GameCamera.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\cameraevent.h(21): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  GameClear.cpp
+  GameClearEvent.cpp
+  GameOverEvent.cpp
+  GameOver.cpp
+  GameStartEvent.cpp
+  GameUI.cpp
+  コンパイル中...
+  Heat.cpp
+  HeatGauge.cpp
+  Ice.cpp
+  Image2D.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\image2d.cpp(108): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\image2d.cpp(113): warning C4244: '=': 'float' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\image2d.cpp(131): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+  jewelryUI.cpp
+  KnockUI.cpp
+  LoadCSV.cpp
+  LoadScene.cpp
+  GamePause.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\gamepause.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  LoadScreen.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\loadscreen.cpp(80): warning C4244: '引数': 'float' から 'UINT' への変換です。データが失われる可能性があります。
+  ObjectRenderer.cpp
+  SaveLoad.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\saveload.cpp(122): warning C4838: 'int' から 'bool' への変換には縮小変換が必要です
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\saveload.cpp(122): warning C4305: '初期化中': 'int' から 'bool' へ切り詰めます。
+  Scene_Select.cpp
+  Scene_Stage1_4.cpp
+  Scene_Stage1_1.cpp
+  Scene_Stage1_2.cpp
+  Scene_Stage1_3.cpp
+  Scene_Stage1_5.cpp
+  Scene_Stage2_1.cpp
+  Scene_Stage2_2.cpp
+  コンパイル中...
+  Scene_Stage2_3.cpp
+  Scene_Stage2_4.cpp
+  Scene_Stage2_5.cpp
+  Scene_Stage3_1.cpp
+  Scene_Stage3_2.cpp
+  Scene_Stage3_3.cpp
+  Scene_Stage3_4.cpp
+  Scene_Stage3_5.cpp
+  Scene_StageBase.cpp
+  Select_Bat.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_bat.cpp(41): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_bat.cpp(82): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Select_Block.cpp
+  Select_Data.cpp
+  Select_Mole.cpp
+  Select_Score.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(124): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(125): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(127): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(128): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(130): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(131): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(133): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(134): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(136): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(137): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(143): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(144): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(145): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(147): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(148): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(149): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(151): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(152): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(153): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(155): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(156): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(157): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(159): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(160): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\select_score.cpp(161): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Select_StageNumber.cpp
+  Sound.cpp
+  StageBase_Heet.cpp
+  StageBase_Player.cpp
+  Magma.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\magma.cpp(527): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Main_Bunker.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\main_bunker.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\main_bunker.cpp(166): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\main_bunker.cpp(323): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コンパイル中...
+  Sand.cpp
+  Gas.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\gas.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\gas.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\jewely.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Geometory.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\geometory.cpp(180): warning C4244: '=': 'float' から 'UINT' への変換です。データが失われる可能性があります。
+  Input.cpp
+  ItemBase.cpp
+  Jewely.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\jewely.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\jewely.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\jewely.cpp(46): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  Main.cpp
+  Matrix_Test.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\matrix_test.cpp(16): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  MeshBuffer.cpp
+  Model.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(115): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(117): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(123): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(141): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(149): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(157): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(163): warning C4267: 'return': 'size_t' から 'Model::AnimeNo' に変換しました。データが失われているかもしれません。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(313): warning C4267: '初期化中': 'size_t' から 'Model::NodeIndex' に変換しました。データが失われているかもしれません。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(317): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(366): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(395): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model.cpp(433): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  ModelManager.cpp
+  ModelManager_Class.cpp
+  Model_Contents.cpp
+  PileBankerBase.cpp
+  Player.cpp
+  SamplerState.cpp
+  Scene.cpp
+  Scene_Game.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\scene_game.cpp(44): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\scene_game.cpp(39): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  Scene_Title.cpp
+  SE.cpp
+  コンパイル中...
+  Shader.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\shader.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' の宣言を確認してください
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\shader.cpp(59): warning C4244: '引数': 'SIZE_T' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\shader.cpp(149): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  Side_Bunker.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\side_bunker.cpp(267): warning C4101: 'PileNagasa': ローカル変数は 1 度も使われていません。
+  Soil.cpp
+  Sprite.cpp
+  SpriteManager.cpp
+  Stage.cpp
+  StageBase.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\stagebase.cpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\gas.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\jewely.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\stagebase.cpp(391): warning C4838: 'double' から 'int' への変換には縮小変換が必要です
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\stagebase.cpp(387): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+  StageBase_Block.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\gas.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  StageBase_Jewely.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\jewely.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  StageBase_PileBanker.cpp
+  StageBase_Save.cpp
+  StartEvent_Player.cpp
+  StartEvent_SideBunker.cpp
+  Startup.cpp
+  Stone.cpp
+  Timer.cpp
+  UI_ClearScore.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_clearscore.cpp(7): warning C4244: '初期化中': 'float' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_clearscore.cpp(8): warning C4244: '初期化中': 'float' から 'unsigned int' への変換です。データが失われる可能性があります。
+  UI_ClearScreen.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_clearscreen.cpp(96): warning C4244: '初期化中': 'float' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_clearscreen.cpp(97): warning C4244: '初期化中': 'float' から 'unsigned int' への変換です。データが失われる可能性があります。
+  UI_OverPeople.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_overpeople.cpp(19): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_overpeople.cpp(25): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_overpeople.cpp(31): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_overpeople.cpp(40): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  UI_OverScreen.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_overscreen.cpp(77): warning C4244: '初期化中': 'float' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_overscreen.cpp(78): warning C4244: '初期化中': 'float' から 'unsigned int' への変換です。データが失われる可能性があります。
+  コンパイル中...
+  UI_PauseScreen.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_pausescreen.cpp(84): warning C4244: '初期化中': 'float' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\ui_pausescreen.cpp(85): warning C4244: '初期化中': 'float' から 'unsigned int' への変換です。データが失われる可能性があります。
+  UI_PauseText.cpp
+  UI_Tutorial.cpp
+  VirtualBlock.cpp
+  Water.cpp
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\water.cpp(576): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  WinUtil.cpp
+  XboxKeyboard.cpp
+  コード生成しています。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model_contents.cpp(294): warning C4715: 'Model::LoadAndTexture': 値を返さないコントロール パスがあります。
+c:\users\isshi\onedrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\dx22base\model_contents.cpp(149): warning C4715: 'Model::Load': 値を返さないコントロール パスがあります。
+  All 3730 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+DirectXTex_vs2017_x64.lib(BC.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(BC.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_vs2017_x64.lib(BC4BC5.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(BC4BC5.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_vs2017_x64.lib(BC6HBC7.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(BC6HBC7.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_vs2017_x64.lib(DirectXTexCompress.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(DirectXTexCompress.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_vs2017_x64.lib(DirectXTexConvert.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(DirectXTexConvert.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_vs2017_x64.lib(DirectXTexD3D11.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(DirectXTexD3D11.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_vs2017_x64.lib(DirectXTexImage.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(DirectXTexImage.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_vs2017_x64.lib(DirectXTexMipMaps.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(DirectXTexMipMaps.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_vs2017_x64.lib(DirectXTexTGA.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(DirectXTexTGA.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_vs2017_x64.lib(DirectXTexUtil.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(DirectXTexUtil.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_vs2017_x64.lib(DirectXTexWIC.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_vs2017_x64.lib(DirectXTexWIC.obj)' で、または 'C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  DX22Base.vcxproj -> C:\Users\isshi\OneDrive - nkz.ac.jp\デスクトップ\書類選考資料\チーム作品\プロジェクトフォルダ\ソリューションフォルダ\x64\Release\DX22Base.exe
